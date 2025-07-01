@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  michael / mike <br>
+  michael <br>
   <i>he ↟ him</i> <br>
   <b>whisper 2 int</b>
 </p>

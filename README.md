@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.ibb.co/0y5bWM91/image.png">
+</p>
 
-<!--
-**riddlebatter/riddlebatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  name / nickname <br>
+  <i>he † him</i> <br>
+  <b>whisper 2 int !</b>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://godsfavoriteboy.carrd.co/">carrd</a> ・ 
+  <a href="https://open.spotify.com/user/31t5g3hkel7l6u4oagayevubrnge?si=bf9d454eb5074ec1">spotify</a>
+</p>

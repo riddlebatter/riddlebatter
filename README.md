@@ -1,3 +1,10 @@
+<div align="center">
+  
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5g3hkel7l6u4oagayevubrnge&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" />
+  </a>
+
+</div>
+
 <p align="center">
   <img src="https://i.ibb.co/0y5bWM91/image.png">
 </p>

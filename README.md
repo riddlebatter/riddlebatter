@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  name / nickname <br>
-  <i>he † him</i> <br>
-  <b>whisper 2 int !</b>
+  michael / mike <br>
+  <i>he ↟ him</i> <br>
+  <b>whisper 2 int</b>
 </p>
 
 <p align="center">
